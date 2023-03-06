@@ -1,11 +1,16 @@
-import "./App.css";
+import { Outlet } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
-function App() {
+export const App = () => {
   return (
-    <div className="App">
-      <h2>제목</h2>
-    </div>
+    <>
+      <Helmet>
+        <style>
+          @import
+          url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+        </style>
+      </Helmet>
+      <Outlet />
+    </>
   );
-}
-
-export default App;
+};
