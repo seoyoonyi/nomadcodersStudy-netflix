@@ -728,4 +728,4 @@ object-assign
 	input, button {
 		font-family: "Pretendard", sans-serif;
 	}
-`,uU=pC([{path:"/",element:M.jsx(GT,{}),errorElement:M.jsx(UD,{}),children:[{index:!0,element:M.jsx(oU,{})},{path:"tv/:tvId",element:M.jsx(iU,{})},{path:"movie/:movieId",element:M.jsx(sU,{})},{path:"search",element:M.jsx(aU,{})}]}],{basename:"/nomadcodersStudy-netflix/"}),cU=new Y2;qf.createRoot(document.getElementById("root")).render(M.jsx(fe.StrictMode,{children:M.jsx(L2,{children:M.jsx(nN,{client:cU,children:M.jsx(ss,{children:M.jsxs(nD,{theme:iD,children:[M.jsx(lU,{}),M.jsx(GT,{}),M.jsx(iC,{router:uU})]})})})})}));
+`,uU=pC([{path:"/",element:M.jsx(GT,{}),errorElement:M.jsx(UD,{}),children:[{index:!0,element:M.jsx(oU,{})},{path:"tv/:tvId",element:M.jsx(iU,{})},{path:"movie/:movieId",element:M.jsx(sU,{})},{path:"search",element:M.jsx(aU,{})}]}],{basename:"/nomadcodersStudy_netflix/"}),cU=new Y2;qf.createRoot(document.getElementById("root")).render(M.jsx(fe.StrictMode,{children:M.jsx(L2,{children:M.jsx(nN,{client:cU,children:M.jsx(ss,{children:M.jsxs(nD,{theme:iD,children:[M.jsx(lU,{}),M.jsx(GT,{}),M.jsx(iC,{router:uU})]})})})})}));
