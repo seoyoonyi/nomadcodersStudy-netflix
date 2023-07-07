@@ -1,1 +1,1 @@
-# nomadcoderChallenge-netflix
+# nomadcodersStudy-netflix
